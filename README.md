@@ -1,3 +1,4 @@
+bunnies
 Simple Hello World project
 
 To compile, execute the command
